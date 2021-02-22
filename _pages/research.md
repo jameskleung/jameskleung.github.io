@@ -2,9 +2,9 @@
 permalink: /research/
 title: "Research"
 classes: wide
-<!-- sidebar:
+sidebar:
   - title: "Contact"
-    text: "Room 358, School of Physics, University of Sydney, NSW, 2006" -->
+    text: "hehehehehehehe"
 ---
 
 ## Title
