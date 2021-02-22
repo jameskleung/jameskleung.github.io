@@ -4,5 +4,5 @@ title: "Teaching"
 classes: wide
 ---
 
-## Teaching
+## Topic 1
 More to come... stay tuned.

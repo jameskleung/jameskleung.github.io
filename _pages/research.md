@@ -4,5 +4,5 @@ title: "Research"
 classes: wide
 ---
 
-## Research
+## Project 1
 More to come... stay tuned.
